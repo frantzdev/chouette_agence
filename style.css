@@ -90,6 +90,10 @@ a:hover {
     right: 0;
 }
 
+.backcolor-title h2 {
+    background-color: #333333;
+}
+
 .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
@@ -740,6 +744,10 @@ h4 {
     color: #FFFFFF!important;
 }
 
+.black {
+    color: #333333!important;
+}
+
 .portfolio-thumb {
     margin-bottom: 24px;
 }
@@ -779,14 +787,24 @@ h4 {
     color: #F3976C!important;
 }
 
+.tc-black {
+    color: #1f1f1f!important;
+}
+
+.text-font {
+    font-size: 15px;
+    font-weight: bold;
+    color: #1F1F1F!important;
+}
+
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #333333!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #333333!important;
 }
 
 .ltc-white {
